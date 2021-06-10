@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Kings of Sweden/Cinema_Room_Manager.Topics-Equality-Kings_of_Sweden.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Kings of Sweden/Cinema_Room_Manager.Topics-Equality-Kings_of_Sweden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Kings of Sweden/Cinema_Room_Manager.Topics-Equality-Kings_of_Sweden.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Kings of Sweden/Cinema_Room_Manager.Topics-Equality-Kings_of_Sweden.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Kings of Sweden/Cinema_Room_Manager.Topics-Equality-Kings_of_Sweden.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Kings of Sweden/Cinema_Room_Manager.Topics-Equality-Kings_of_Sweden.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Cinema_Room_Manager.Topics-Equality-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Cinema_Room_Manager.Topics-Equality-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Cinema_Room_Manager.Topics-Equality-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Cinema_Room_Manager.Topics-Equality-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Cinema_Room_Manager.Topics-Equality-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Equality/Theory/Cinema_Room_Manager.Topics-Equality-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
